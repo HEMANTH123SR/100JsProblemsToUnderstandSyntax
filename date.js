@@ -1,4 +1,4 @@
-// Write a JavaScript program to display the current date and time.
+// date in js
 
 let date=new Date();
 
